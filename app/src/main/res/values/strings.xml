@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BackgroundWorker</string>
+    <string name="get_config">Get config</string>
+</resources>
